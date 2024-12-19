@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/bookmark_24"
+        android:title="Избранное" />
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home_24"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/nav_conversation"
+        android:icon="@drawable/people_conversation"
+        android:title="Разговор" />
+</menu>
